@@ -5,4 +5,3 @@ Area = length × breadth
 Perimeter = 2 × (length + breadth)
 
 This program is ideal for beginners learning Java input/output, variable handling, and basic arithmetic operations.
-
