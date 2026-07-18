@@ -3,9 +3,7 @@
 ## 📌 Overview
 
 This project is a simple Java console application that calculates the **area** and **perimeter** of a rectangle based on user-provided dimensions.
-
 The program accepts the **length** and **breadth** of a rectangle as input, performs the necessary calculations using standard mathematical formulas, and displays the results.
-
 It is an ideal beginner project for learning Java fundamentals such as user input, variables, arithmetic operations, and console output.
 
 ---
